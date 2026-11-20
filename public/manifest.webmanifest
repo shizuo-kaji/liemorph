@@ -1,0 +1,10 @@
+{
+  "name": "LieMorph",
+  "short_name": "LieMorph",
+  "description": "Squish, pose and animate any picture (ARAP deformation & shape interpolation).",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf6f3",
+  "theme_color": "#ff5d8f",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
